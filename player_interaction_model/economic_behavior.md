@@ -1,4 +1,4 @@
-﻿# 6 3 economic behavior
+﻿# Economic Behavior
 
 [Back to Section](../index.md)
 

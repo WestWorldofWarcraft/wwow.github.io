@@ -1,4 +1,4 @@
-﻿# 8 4 regulatory compliance
+﻿# Regulatory Compliance
 
 [Back to Section](../index.md)
 

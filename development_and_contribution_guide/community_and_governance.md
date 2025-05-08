@@ -1,4 +1,4 @@
-﻿# 9 4 community and governance
+﻿# Community and Governance
 
 [Back to Section](../index.md)
 

@@ -1,4 +1,4 @@
-﻿# 3 3 network and security boundaries
+﻿# Network and Security Boundaries
 
 [Back to Section](../index.md)
 

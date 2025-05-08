@@ -47,7 +47,7 @@ This documentation is licensed under [Creative Commons Attribution 4.0 Internati
 ---
 
 **Visual Diagram Placeholder:**
-*(Insert architecture diagram or project logo here)*
+![Westworld of Warcraft Logo](logo.png "Westworld of Warcraft Logo")
 
 ---
 

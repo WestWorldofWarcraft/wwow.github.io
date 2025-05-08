@@ -1,4 +1,4 @@
-﻿# 10 5 ci cd pipeline management
+﻿# CI CD Pipeline Management
 
 [Back to Section](../index.md)
 

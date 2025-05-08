@@ -1,4 +1,4 @@
-﻿# 2 3 success criteria
+﻿# Success Criteria
 
 [Back to Section](../index.md)
 

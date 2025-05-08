@@ -1,4 +1,4 @@
-﻿# 8 1 code of conduct and prohibited behaviors
+﻿# Code of Conduct and Prohibited Behaviors
 
 [Back to Section](../index.md)
 

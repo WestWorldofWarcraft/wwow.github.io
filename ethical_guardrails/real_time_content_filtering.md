@@ -1,4 +1,4 @@
-﻿# 8 2 real time content filtering
+﻿# Real Time Content Filtering
 
 [Back to Section](../index.md)
 

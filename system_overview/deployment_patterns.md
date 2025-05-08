@@ -1,4 +1,4 @@
-﻿# 3 4 deployment patterns
+﻿# Deployment Patterns
 
 [Back to Section](../index.md)
 

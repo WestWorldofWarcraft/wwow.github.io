@@ -1,4 +1,4 @@
-﻿# 6 5 edge case handling
+﻿# Edge Case Handling
 
 [Back to Section](../index.md)
 

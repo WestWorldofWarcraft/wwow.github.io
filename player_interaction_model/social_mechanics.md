@@ -1,4 +1,4 @@
-﻿# 6 2 social mechanics
+﻿# Social Mechanics
 
 [Back to Section](../index.md)
 

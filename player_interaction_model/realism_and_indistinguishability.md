@@ -1,4 +1,4 @@
-﻿# 6 4 realism and indistinguishability
+﻿# Realism and Indistinguishability
 
 [Back to Section](../index.md)
 
